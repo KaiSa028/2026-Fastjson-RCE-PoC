@@ -1,5 +1,5 @@
 # Fastjson 1.2.83 RCE PoC
-Fastjson-1.2.83 rec
+Fastjson 1.2.66-1.2.83 远程代码执行漏洞验证脚本 | AutoType 默认关闭仍可触发 | JDK 8/17/21 兼容
 伤害最小化测试是否存在此漏洞
 测试流程报告在docx里面，懒得再写了
 
